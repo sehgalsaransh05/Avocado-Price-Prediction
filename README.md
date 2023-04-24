@@ -28,11 +28,5 @@ The goal of this project is to forecast avocado prices using the following techn
 
 The forecast models were evaluated using metrics like R-squared, MAPE, and MAE.
 
-## Usage
-The code for this project can be found in the 'xx.ipynb' notebook. The notebook contains the data preprocessing steps, the model training, and the prediction of the test set. The 'requirements.txt' file contains the necessary dependencies to run the notebook.
-
-## Results
-The results of this project include multiple forecast models built using different techniques with varying levels of accuracy. The accuracy of each model was evaluated using R-squared, MAPE, and MAE metrics. The results of each model are summarized in the Jupyter notebook.
-
 ## Future Work
 Future work for this project includes packaging and testing the deployment of the forecast models for optimal performance on AWS.
